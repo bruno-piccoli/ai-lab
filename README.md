@@ -41,8 +41,8 @@ AI-LAB/
 │
 ├── Assets/
 ├── Docker/
-├── Documentacao/
-├── Projetos/
+├── Documentation/
+├── Projects/
 ├── Prompts/
 ├── n8n/
 │
